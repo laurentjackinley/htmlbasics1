@@ -1,0 +1,18 @@
+h1 {
+  color:red;
+  background-color: blue;
+}
+body {
+    background-color: rgb(189, 190, 222);
+}
+h3 {
+  text-align: center;  
+}
+p {
+    font-size: 32px;
+    color: purple;
+    font-weight: bold;   
+}
+img {
+    width: 30%;
+}

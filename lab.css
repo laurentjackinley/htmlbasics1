@@ -1,0 +1,28 @@
+body {
+    background-color:lightblue;
+    background-image: url("https://images.unsplash.com/photo-1517384084767-6bc118943770?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+h1 {
+    text-align: center;
+}
+.header {
+    border-width: 0px;
+    font-size: 35px;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: center;
+    border: none;
+}
+button{
+    border-radius: 25px;
+    border-width: 0px;
+    font-size: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+footer{
+    text-align: center;
+    margin-top: 20%;
+}
